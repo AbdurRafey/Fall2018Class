@@ -1,10 +1,10 @@
-# Pre-work - *Tip Calculator*
+# Pre-work - Tip Calculator
 
-**Tip Calculator** is a tip calculator application for iOS.
+Tip Calculator is a tip calculator application for iOS.
 
-Submitted by: **Abdur Rafey**
+Submitted by: Abdur Rafey
 
-Time spent: **4** hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
@@ -33,7 +33,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+Main challeges were mostly technical as I was having an issue displaying larger totals for tax and total based on initial bill value, but I was able to fix this and add aesthetical designs to improve the display. 
 
 ## License
 
