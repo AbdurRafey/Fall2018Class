@@ -21,7 +21,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality! :
+
+    - add different tax amounts based on different types of purchases. 
 
 ## Video Walkthrough 
 
@@ -31,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-# My video for Tip Calculator as a gif: https://ezgif.com/video-to-gif/ezgif-1-445157a765.mp4 
+# My video for Tip Calculator: https://ezgif.com/video-to-gif/ezgif-1-445157a765.mp4 
 
 ## Notes
 
