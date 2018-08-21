@@ -31,6 +31,8 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+# My video for Tip Calculator as a gif: https://ezgif.com/video-to-gif/ezgif-1-445157a765.mp4 
+
 ## Notes
 
 Describe any challenges encountered while building the app:
